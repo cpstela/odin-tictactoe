@@ -8,7 +8,7 @@ document.querySelectorAll('.flip-card').forEach(item => {
 //Gameboard module
 
 const gameboard  = (() => {
-  let arGameboard = ['x','o','x','o','x','x','o','x','o']
+  let arGameboard = ['x','o','x','o','x','x','o','x','x']
   return {
     arGameboard,
   };
